@@ -1,0 +1,6 @@
+The C version of Tranfer letter to number. We have to go through the string to get length.
+
+To complie:
+
+$ gcc transfernuminc.c -o transfernuminc -lm
+
